@@ -1,0 +1,22 @@
+# Build output (CMake / IDE build dirs)
+build/
+out/
+cmake-build-*/
+
+# IDE / editor folders
+.vs/
+.idea/
+.vscode/
+
+# Compiler & debugger artifacts
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.ipch
+*.VC.db
+*.opendb
+
+# Local tool settings
+.claude/settings.local.json
